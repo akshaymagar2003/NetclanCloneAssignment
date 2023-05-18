@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_refine"
+        android:icon="@drawable/checklist"
+        android:title="@string/title_refine" />
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/view"
+        android:title="@string/title_explore" />
+
+    <item
+        android:id="@+id/navigation_network"
+        android:icon="@drawable/management"
+        android:title="@string/title_network" />
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/chat"
+        android:title="@string/title_chat" />
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/contact"
+        android:title="@string/title_contact"
+        />
+
+</menu>

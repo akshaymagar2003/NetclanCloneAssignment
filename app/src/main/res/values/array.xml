@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="spinnerItems">
+        <item>Available | Hey Let Us Connect </item>
+        <item>Away | Stay Discreet And Watch</item>
+        <item>Busy | Do Not Disturb | Will Catch Up Later</item>
+        <item>SOS | Emergency! Need Assistance ! Here</item>
+    </string-array>
+</resources>

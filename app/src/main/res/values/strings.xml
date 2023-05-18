@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Netclan Clone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_refine">Refine</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_network">Network</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_contact">Contacts</string>
+    <string name="title_community">Community</string>
+    <string name="title_Business">Business</string>
+    <string name="title_shelter">Shelter</string>
+</resources>
